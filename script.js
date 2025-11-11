@@ -6,6 +6,7 @@ const main = document.querySelector('main');
 title.style.color = 'red';
 title.innerHTML = '<b>Hello, World!</b>';
 
+
 paragraph.style.fontSize = '20px';
 paragraph.style.fontFamily = 'Arial, sans-serif';
 
@@ -33,6 +34,6 @@ const secondP = main.children[2];
 main.insertBefore(p,secondP);
 
 const newParagraph = document.querySelector('.text');
-newParagraph.style.color = 'green';
+newParagraph.style.color = 'black';
 newParagraph.style.fontSize = '18px';
 
