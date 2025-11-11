@@ -1,0 +1,9 @@
+:root {
+  --background-blur: ;
+  --cream-background: rgba(255, 243, 235, 1);
+  --cream-item: rgba(249, 227, 213, 1);
+  --purple-dark: rgba(70, 47, 77, 1);
+  --shadow-users: 3px 4px 8px 0px rgba(53, 37, 19, 0.31);
+  --textlabel-color-gray-700: rgba(29, 43, 54, 1);
+  --x2plan-font: rgba(217, 217, 217, 1);
+}
